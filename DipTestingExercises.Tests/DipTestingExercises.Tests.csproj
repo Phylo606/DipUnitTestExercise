@@ -47,6 +47,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BusTests.cs" />
     <Compile Include="Mocks\FakeIPerson.cs" />
     <Compile Include="Mocks\FakeMotorVehicle.cs" />
     <Compile Include="MotorVehicleTests.cs" />

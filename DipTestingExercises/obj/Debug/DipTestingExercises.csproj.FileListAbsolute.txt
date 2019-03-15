@@ -31,3 +31,9 @@ D:\VolatileData\Profiles\TEMP.SWIN\source\repos\DipUnitTestExercise\DipTestingEx
 D:\VolatileData\Profiles\TEMP.SWIN\source\repos\DipUnitTestExercise\DipTestingExercises\obj\Debug\DipTestingExercises.csproj.CoreCompileInputs.cache
 D:\VolatileData\Profiles\TEMP.SWIN\source\repos\DipUnitTestExercise\DipTestingExercises\obj\Debug\DipTestingExercises.exe
 D:\VolatileData\Profiles\TEMP.SWIN\source\repos\DipUnitTestExercise\DipTestingExercises\obj\Debug\DipTestingExercises.pdb
+D:\VolatileData\Profiles\TEMP.SWIN.000\Source\Repos\DipUnitTestExercise\DipTestingExercises\bin\Debug\DipTestingExercises.exe.config
+D:\VolatileData\Profiles\TEMP.SWIN.000\Source\Repos\DipUnitTestExercise\DipTestingExercises\bin\Debug\DipTestingExercises.exe
+D:\VolatileData\Profiles\TEMP.SWIN.000\Source\Repos\DipUnitTestExercise\DipTestingExercises\bin\Debug\DipTestingExercises.pdb
+D:\VolatileData\Profiles\TEMP.SWIN.000\Source\Repos\DipUnitTestExercise\DipTestingExercises\obj\Debug\DipTestingExercises.csproj.CoreCompileInputs.cache
+D:\VolatileData\Profiles\TEMP.SWIN.000\Source\Repos\DipUnitTestExercise\DipTestingExercises\obj\Debug\DipTestingExercises.exe
+D:\VolatileData\Profiles\TEMP.SWIN.000\Source\Repos\DipUnitTestExercise\DipTestingExercises\obj\Debug\DipTestingExercises.pdb
